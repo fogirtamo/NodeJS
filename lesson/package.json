@@ -1,0 +1,24 @@
+{
+  "name": "nadejs",
+  "version": "1.0.0",
+  "description": "nodejs lesson",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "vlad bas <vladbas2408@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^10.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "type": "module"
+}
